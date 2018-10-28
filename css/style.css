@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:300');
+
+
+h1 {
+  text-transform: uppercase;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
+  font-size: 45px;
+}
+
+#main-section{
+  text-align: center;
+  padding-top: 30vh;
+  background-color: #D86200;
+  color: white;
+  height: 100vh;
+}
