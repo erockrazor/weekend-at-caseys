@@ -28,6 +28,10 @@ h2 {
   height: 100vh;
 }
 
+#description {
+  min-height: 100vh;
+}
+
 #testimonials img {
   border-radius: 50%;
   border: 5px solid white;
